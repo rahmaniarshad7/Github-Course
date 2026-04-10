@@ -14,3 +14,8 @@ function printGrade(){
 printName();
 printAge();
 printGrade();
+
+const email = "alisa@example.com";
+function printEmail(){
+  console.log(email);
+}
