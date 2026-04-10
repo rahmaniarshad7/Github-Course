@@ -1,1 +1,2 @@
-const name = Arshad;
+const name = "Arshad";
+const surname = "Aiman";
