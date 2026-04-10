@@ -19,3 +19,4 @@ const email = "alisa@example.com";
 function printEmail(){
   console.log(email);
 }
+printEmail();
