@@ -11,3 +11,6 @@ function printAge(){
 function printGrade(){
   console.log(grade);
 }
+printName();
+printAge();
+printGrade();
