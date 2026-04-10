@@ -5,3 +5,6 @@ const grade = "5th Grade"
 function printName(){
   console.log(name);
 }
+function printAge(){
+  console.log(age);
+}
