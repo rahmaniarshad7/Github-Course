@@ -4,3 +4,5 @@ function multiply(a, b) {
 
 // Example usage:
 console.log(multiply(5, 3));
+
+const num = 10;
