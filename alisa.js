@@ -8,3 +8,6 @@ function printName(){
 function printAge(){
   console.log(age);
 }
+function printGrade(){
+  console.log(grade);
+}
